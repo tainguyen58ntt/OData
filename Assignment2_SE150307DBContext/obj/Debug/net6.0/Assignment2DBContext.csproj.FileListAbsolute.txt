@@ -1,0 +1,17 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2DBContext.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2DBContext.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2DBContext.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\refint\Assignment2DBContext.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\ref\Assignment2DBContext.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2Domain.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2Domain.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.csproj.CopyComplete
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\bin\Debug\net6.0\Assignment2DBContext.runtimeconfig.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307DBContext\obj\Debug\net6.0\Assignment2DBContext.genruntimeconfig.cache

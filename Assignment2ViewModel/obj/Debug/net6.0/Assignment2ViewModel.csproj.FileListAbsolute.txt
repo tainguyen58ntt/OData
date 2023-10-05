@@ -1,0 +1,12 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\bin\Debug\net6.0\Assignment2ViewModel.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\bin\Debug\net6.0\Assignment2ViewModel.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\bin\Debug\net6.0\Assignment2ViewModel.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\refint\Assignment2ViewModel.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\Assignment2ViewModel.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2ViewModel\obj\Debug\net6.0\ref\Assignment2ViewModel.dll

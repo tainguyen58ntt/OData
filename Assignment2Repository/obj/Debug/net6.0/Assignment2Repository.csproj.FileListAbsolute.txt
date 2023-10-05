@@ -1,0 +1,12 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\bin\Debug\net6.0\Assignment2Repository.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\bin\Debug\net6.0\Assignment2Repository.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\bin\Debug\net6.0\Assignment2Repository.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\refint\Assignment2Repository.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\Assignment2Repository.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Repository\obj\Debug\net6.0\ref\Assignment2Repository.dll

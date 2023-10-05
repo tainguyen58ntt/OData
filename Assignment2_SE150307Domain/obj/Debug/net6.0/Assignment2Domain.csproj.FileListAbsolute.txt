@@ -1,0 +1,12 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\bin\Debug\net6.0\Assignment2Domain.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\bin\Debug\net6.0\Assignment2Domain.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\bin\Debug\net6.0\Assignment2Domain.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\refint\Assignment2Domain.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\Assignment2Domain.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2_SE150307Domain\obj\Debug\net6.0\ref\Assignment2Domain.dll

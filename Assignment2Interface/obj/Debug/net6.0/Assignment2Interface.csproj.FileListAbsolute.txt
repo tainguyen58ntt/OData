@@ -1,0 +1,12 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\bin\Debug\net6.0\Assignment2Interface.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\bin\Debug\net6.0\Assignment2Interface.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\bin\Debug\net6.0\Assignment2Interface.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\refint\Assignment2Interface.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\Assignment2Interface.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Interface\obj\Debug\net6.0\ref\Assignment2Interface.dll

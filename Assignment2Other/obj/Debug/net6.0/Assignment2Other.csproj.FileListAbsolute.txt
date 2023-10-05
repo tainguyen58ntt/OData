@@ -1,0 +1,12 @@
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\bin\Debug\net6.0\Assignment2Other.deps.json
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\bin\Debug\net6.0\Assignment2Other.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\bin\Debug\net6.0\Assignment2Other.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.csproj.AssemblyReference.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.AssemblyInfoInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.AssemblyInfo.cs
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.csproj.CoreCompileInputs.cache
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\refint\Assignment2Other.dll
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\Assignment2Other.pdb
+D:\Semester 8\PRN231\Assignment2_SE150307\Assignment2_SE150307\Assignment2Other\obj\Debug\net6.0\ref\Assignment2Other.dll
